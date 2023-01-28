@@ -2,7 +2,7 @@ import requests
 import json
 
 # API key for OpenWeatherMap
-api_key = 'dd78c30cb384d116fa9452da1e35f309'
+api_key = 'ENTER_YOUR_API_KEY_HERE'
 
 # Get the current weather
 def get_weather(city):
